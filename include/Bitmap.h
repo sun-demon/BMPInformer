@@ -1,3 +1,4 @@
+//https://github.com/baderouaich/BitmapPlusPlus/tree/master/include/BitmapPlusPlus.hpp
 #pragma once
 
 #include <fstream>   // std::*fstream

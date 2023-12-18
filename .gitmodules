@@ -1,3 +1,0 @@
-[submodule = "include"]
-    path = include/bmp.path
-    ulr = https://github.com/baderouaich/BitmapPlusPlus/.git/include/BitmapPlusPlus.hpp
